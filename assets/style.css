@@ -359,3 +359,6 @@ input[type="submit"] {
 	}
 }
 
+.visually-hidden{
+	color: #000;
+}
