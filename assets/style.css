@@ -103,12 +103,19 @@ h2{
 
 .gallery .nav {
 	justify-content: center;
+	
 }
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
 	color: #fff;
 	background-color: #5f560d;
 	border-radius:0 ;
+	/* cursor: pointer; */
 }
+
+.nav-link{
+	cursor: pointer;
+}
+
 .nav-pills .nav-link {
 	color: #000
 }
